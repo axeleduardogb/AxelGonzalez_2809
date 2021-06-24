@@ -1,0 +1,24 @@
+﻿Tarea 8.- Operación de un centro de computo.
+
+
+De acuerdo con lo visto en clase, de la presentación y del tema Forma de operar un centro de cómputo, ejemplificar 5 puntos de la presentación que está en la plataforma.
+Nombre: Gonzalez Bernal Axel Eduardo
+
+
+1. Realizar las copias de respaldo (back-up) de la información y procesos de cómputo que se realizan en la Dirección, conforme a parámetros preestablecidos. Ejemplo: Si en la empresa donde trabajas está establecido que todos los domingos se haga un respaldo de toda la información, se tiene que hacer el respaldo de toda la información el domingo sin falta.
+
+
+2. Realizar labores de mantenimiento y limpieza de los equipos del centro de computo.
+Ejemplo: Realizar el mantenimiento y prueba de rendimiento constante a los aparatos eléctricos para alargar su periodo de vida y poner ofrecer un servicio funcional, como abrir una computadora y limpiar todo el polvo en su interior.
+
+
+3. Llevar registros de fallas, problemas, soluciones, acciones desarrolladas, respaldos, recuperaciones y trabajos realizados.
+Ejemplo: Tener informes detallados de todo lo que sucede en el centro de cómputo, como algún registro del personal que use algún servicio del centro de cómputo.
+
+
+4. Velar porque el sistema computarizado se mantenga funcionando apropiadamente y estar vigilante para detectar y corregir fallas en el mismo.
+Ejemplo: Mantener informes de estado sobre los aparatos eléctricos para dar un mantenimiento a tiempo si se detecta alguna falla y poder seguir con el funcionamiento normal.
+
+
+5. Aplicar en forma estricta las normas de seguridad y control establecidas.
+Ejemplo: No tener bebidas ni comidas dentro del centro de cómputo si la empresa no te lo permite, no permitir personal no autorizado en las zonas donde se establece eso.
